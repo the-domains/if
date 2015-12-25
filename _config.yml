@@ -1,0 +1,14 @@
+layout_spectrum: 0.1595745
+typography_spectrum: 0.3723404
+color:
+  saturation: 0.7638298
+  lightness: 0.8404256
+  brandStrength: 0.7191489
+  brandColors:
+    - '#D41772'
+    - '#FFFFFF'
+    - '#000000'
+    - '#E796AE'
+    - '#F2C8D4'
+  rhythmicContrast: 0.7446808
+name: iF
